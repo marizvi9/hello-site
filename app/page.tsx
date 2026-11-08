@@ -16,7 +16,7 @@ export default function Home() {
           Welcome! We&apos;re busy building a cozy online home for our library —
           a place to discover books, explore resources, and share a love of
           learning. Thanks for stopping by, and check back soon to see what
-          we&apos;ve been working on.
+          we&apos;ve been working on. Happy reading! 📖
         </p>
       </div>
 
